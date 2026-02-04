@@ -2,4 +2,6 @@
   <Project Path="ConsoleApp1/Construtor1.csproj" />
   <Project Path="Construtor2/Construtor2.csproj" />
   <Project Path="CursoCSharp1/CursoCSharp1.csproj" />
+  <Project Path="ExercicioPraticoI/ExercicioPraticoI.csproj" />
+  <Project Path="thisuso/thisuso.csproj" />
 </Solution>
