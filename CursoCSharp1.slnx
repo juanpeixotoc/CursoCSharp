@@ -1,9 +1,3 @@
 <Solution>
-  <Project Path="ConsoleApp1/Construtor1.csproj" />
-  <Project Path="Construtor2/Construtor2.csproj" />
-  <Project Path="CursoCSharp1/CursoCSharp1.csproj" />
-  <Project Path="ExercicioPraticoI/ExercicioPraticoI.csproj" />
-  <Project Path="ExercicioPraticoII/ExercicioPraticoII.csproj" Id="934129ba-ad73-4546-9221-f074b8dde187" />
-  <Project Path="MetodosComRetorno/MetodosComRetorno.csproj" Id="eb529db2-d10f-4fce-977b-d5a2de4f711c" />
-  <Project Path="thisuso/thisuso.csproj" />
+  <Project Path="ExemplosPraticosMetodos/ExemplosPraticosMetodos.csproj" />
 </Solution>
