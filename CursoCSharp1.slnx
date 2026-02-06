@@ -1,3 +1,12 @@
 <Solution>
-  <Project Path="ExemplosPraticosMetodos/ExemplosPraticosMetodos.csproj" />
+  <Project Path="ArgsPorRef/ArgsPorRef.csproj" />
+  <Project Path="ArgsPorRefOut/ArgsPorRefOut.csproj" />
+  <Project Path="ArgumentosNomeados/ArgumentosNomeados.csproj" />
+  <Project Path="ArgumentosPorRef/ArgumentosPorRef.csproj" />
+  <Project Path="ConstrutorStatic/ConstrutorStatic.csproj" />
+  <Project Path="ExercicioPraticoIII/ExercicioPraticoIII.csproj" />
+  <Project Path="ExercicioPraticoIV/ExercicioPraticoIV.csproj" />
+  <Project Path="ExercicioPraticoV/ExercicioPraticoV.csproj" />
+  <Project Path="MetodoEstatico/MetodoEstatico.csproj" />
+  <Project Path="ParametrosOpcionais/ParametrosOpcionais.csproj" />
 </Solution>
